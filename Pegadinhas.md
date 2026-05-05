@@ -1,202 +1,280 @@
-⚠️ 1. “Provar que NÃO há defeitos”
-❌ Pegadinha
+# ⚠️ PEGADINHAS CLÁSSICAS (ISTQB)
 
-“O objetivo do teste é provar que o sistema não possui defeitos”
+---
 
-✅ Correto
+## ⚠️ 1. “Provar que NÃO há defeitos”
 
-👉 Teste NUNCA prova ausência de defeitos
+❌ **Pegadinha:**
 
-✔️ Só mostra presença de defeitos
-✔️ Reduz risco
+> “O objetivo do teste é provar que o sistema não possui defeitos”
 
-⚠️ 2. Confirmação vs Regressão (clássica de prova)
-❌ Pegadinha
+✅ **Correto:**
+
+👉 Teste **NUNCA prova ausência de defeitos**
+
+- ✔️ Só mostra **presença de defeitos**  
+- ✔️ **Reduz risco**
+
+---
+
+## ⚠️ 2. Confirmação vs Regressão (clássica de prova)
+
+❌ **Pegadinha:**
 
 Misturam os dois no mesmo cenário
 
-🧠 Como diferenciar
-Tipo	O que faz
-Confirmação	Verifica se o bug foi corrigido
-Regressão	Verifica se quebrou outra coisa
-🎯 Dica rápida
+🧠 **Como diferenciar:**
 
-👉 “Corrigiu?” → Confirmação
-👉 “Impactou algo?” → Regressão
+| Tipo         | O que faz                          |
+|--------------|-----------------------------------|
+| Confirmação  | Verifica se o bug foi corrigido   |
+| Regressão    | Verifica se quebrou outra coisa   |
 
-⚠️ 3. QA vs QC (muito cobrada)
-❌ Pegadinha
+🎯 **Dica rápida:**
+
+- 👉 “Corrigiu?” → Confirmação  
+- 👉 “Impactou algo?” → Regressão  
+
+---
+
+## ⚠️ 3. QA vs QC (muito cobrada)
+
+❌ **Pegadinha:**
 
 Trocam definição
 
-✅ Correto
-QA	QC
-Preventivo	Corretivo
-Processo	Produto
-Evita defeito	Encontra defeito
+✅ **Correto:**
 
-👉 Teste = QC
+| QA            | QC               |
+|---------------|------------------|
+| Preventivo    | Corretivo        |
+| Processo      | Produto          |
+| Evita defeito | Encontra defeito |
 
-⚠️ 4. Erro x Defeito x Falha
-❌ Pegadinha
+👉 **Teste = QC**
+
+---
+
+## ⚠️ 4. Erro x Defeito x Falha
+
+❌ **Pegadinha:**
 
 Trocam a ordem
 
-✅ Correto
+✅ **Correto:**
 
-👉 Sequência:
+👉 **Sequência:**
 Erro → Defeito → Falha
 
-Termo	O que é
-Erro	humano
-Defeito	bug no código
-Falha	comportamento errado
-⚠️ 5. Teste estático vs dinâmico
-❌ Pegadinha
+| Termo    | O que é              |
+|----------|---------------------|
+| Erro     | humano              |
+| Defeito  | bug no código       |
+| Falha    | comportamento errado|
+
+---
+
+## ⚠️ 5. Teste estático vs dinâmico
+
+❌ **Pegadinha:**
 
 Dizem que estático executa código
 
-✅ Correto
-Tipo	Característica
-Estático	NÃO executa código
-Dinâmico	Executa
+✅ **Correto:**
 
-👉 Revisão = estático
+| Tipo      | Característica        |
+|-----------|----------------------|
+| Estático  | NÃO executa código   |
+| Dinâmico  | Executa              |
 
-⚠️ 6. Verificação vs Validação
-❌ Pegadinha
+👉 Revisão = **estático**
+
+---
+
+## ⚠️ 6. Verificação vs Validação
+
+❌ **Pegadinha:**
 
 Trocam significado
 
-✅ Correto
-Verificação	Validação
-“Construí certo?”	“Construí o certo?”
-Requisitos	Necessidade do usuário
-⚠️ 7. Princípios de teste (decorar MESMO)
-❌ Pegadinha
+✅ **Correto:**
+
+| Verificação        | Validação                 |
+|-------------------|--------------------------|
+| “Construí certo?” | “Construí o certo?”      |
+| Requisitos        | Necessidade do usuário   |
+
+---
+
+## ⚠️ 7. Princípios de teste (decorar MESMO)
+
+❌ **Pegadinha:**
 
 Mudam palavras
 
-Ex:
+📌 Exemplo:
 
-“Testes provam que não há defeitos”
+> “Testes provam que não há defeitos”
 
-✅ Correto
+✅ **Correto:**
 
-👉 Teste mostra presença, não ausência
+- 👉 Teste mostra **presença**, não ausência  
 
-👉 Outro clássico:
+📌 Outro clássico:
 
-“Testar tudo é possível” ❌
-“Testes exaustivos são impossíveis” ✅
-⚠️ 8. Caixa-preta vs Caixa-branca
-❌ Pegadinha
+- ❌ “Testar tudo é possível”  
+- ✅ “Testes exaustivos são impossíveis”  
+
+---
+
+## ⚠️ 8. Caixa-preta vs Caixa-branca
+
+❌ **Pegadinha:**
 
 Misturam base
 
-✅ Correto
-Tipo	Base
-Caixa-preta	Requisitos
-Caixa-branca	Código
-⚠️ 9. “Tudo é importante testar”
-❌ Pegadinha
+✅ **Correto:**
 
-“Todos os testes devem ter a mesma prioridade”
+| Tipo          | Base        |
+|---------------|-------------|
+| Caixa-preta   | Requisitos  |
+| Caixa-branca  | Código      |
 
-✅ Correto
+---
 
-👉 Teste é baseado em risco
+## ⚠️ 9. “Tudo é importante testar”
 
-⚠️ 10. Independência de teste
-❌ Pegadinha
+❌ **Pegadinha:**
 
-“Mais independência sempre é melhor”
+> “Todos os testes devem ter a mesma prioridade”
 
-✅ Correto
+✅ **Correto:**
 
-👉 Tem vantagens E desvantagens
+👉 Teste é **baseado em risco**
 
-✔️ Mais visão
-❌ Pode gerar isolamento
+---
 
-⚠️ 11. Automação resolve tudo
-❌ Pegadinha
+## ⚠️ 10. Independência de teste
 
-“Automação elimina testes manuais”
+❌ **Pegadinha:**
 
-✅ Correto
+> “Mais independência sempre é melhor”
 
-👉 Automação complementa, não substitui
+✅ **Correto:**
 
-⚠️ 12. Níveis de teste (ordem confunde)
-❌ Pegadinha
+👉 Tem **vantagens e desvantagens**
+
+- ✔️ Mais visão  
+- ❌ Pode gerar isolamento  
+
+---
+
+## ⚠️ 11. Automação resolve tudo
+
+❌ **Pegadinha:**
+
+> “Automação elimina testes manuais”
+
+✅ **Correto:**
+
+👉 Automação **complementa**, não substitui
+
+---
+
+## ⚠️ 12. Níveis de teste (ordem confunde)
+
+❌ **Pegadinha:**
 
 Misturam níveis
 
-✅ Ordem correta
-Componente
-Integração
-Sistema
-Aceite
-⚠️ 13. Tipos de teste vs níveis
-❌ Pegadinha
+✅ **Ordem correta:**
+
+1. Componente  
+2. Integração  
+3. Sistema  
+4. Aceite  
+
+---
+
+## ⚠️ 13. Tipos de teste vs níveis
+
+❌ **Pegadinha:**
 
 Confundem conceito
 
-✅ Diferença
-Nível	Tipo
-Onde testa	O que testa
-⚠️ 14. “Mais testes = melhor qualidade”
-❌ Pegadinha
+✅ **Diferença:**
+
+| Nível        | Tipo        |
+|--------------|-------------|
+| Onde testa   | O que testa |
+
+---
+
+## ⚠️ 14. “Mais testes = melhor qualidade”
+
+❌ **Pegadinha:**
 
 Generalização
 
-✅ Correto
+✅ **Correto:**
 
-👉 Depende do contexto
+👉 Depende do **contexto**
 
-⚠️ 15. Risco (fórmula clássica)
-❌ Pegadinha
+---
+
+## ⚠️ 15. Risco (fórmula clássica)
+
+❌ **Pegadinha:**
 
 Trocam definição
 
-✅ Correto
+✅ **Correto:**
 
-👉 Risco = Probabilidade × Impacto
+👉 **Risco = Probabilidade × Impacto**
 
-🧠 PADRÃO DAS QUESTÕES DO ISTQB
+---
 
-Eles fazem isso:
+## 🧠 PADRÃO DAS QUESTÕES DO ISTQB
 
-🔹 Trocam UMA palavra
-“ausência” no lugar de “presença”
-“sempre” / “nunca”
+Eles costumam:
 
-👉 Se tiver extremo, desconfie
+### 🔹 Trocar UMA palavra
+- “ausência” no lugar de “presença”  
+- “sempre” / “nunca”  
 
-🔹 Criam alternativas “quase certas”
+👉 Se tiver extremo, **desconfie**
 
-Ex:
+---
 
-3 corretas, 1 mais correta
+### 🔹 Criar alternativas “quase certas”
 
-👉 Procure a mais completa
+Exemplo:
 
-🔹 Misturam conceitos próximos
-Confirmação vs regressão
-QA vs QC
-Verificação vs validação
-🎯 DICA DE OURO (isso muda seu resultado)
+👉 3 corretas, 1 **mais correta**
 
-Se você estiver em dúvida:
+👉 Procure a **mais completa**
 
-👉 Elimine alternativas que:
+---
 
-usam “sempre” / “nunca”
-são absolutas
-parecem perfeitas demais
+### 🔹 Misturar conceitos próximos
+- Confirmação vs Regressão  
+- QA vs QC  
+- Verificação vs Validação  
+
+---
+
+## 🎯 DICA DE OURO (isso muda seu resultado)
+
+Se estiver em dúvida:
+
+👉 **Elimine alternativas que:**
+
+- usam “sempre” / “nunca”  
+- são absolutas  
+- parecem perfeitas demais  
 
 👉 Normalmente a correta é:
-✔️ equilibrada
-✔️ contextual
-✔️ mais realista
+
+- ✔️ equilibrada  
+- ✔️ contextual  
+- ✔️ mais realista  
