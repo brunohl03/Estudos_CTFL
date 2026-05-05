@@ -174,13 +174,28 @@ D) Elimina testes manuais
 
 ## GABARITO
 
-| #  | Resp | #  | Resp | #  | Resp | #  | Resp |
-|----|------|----|------|----|------|----|------|
-| 1  | B    | 6  | C    | 11 | B    | 16 | B    |
-| 2  | C    | 7  | C    | 12 | B    | 17 | C    |
-| 3  | B    | 8  | C    | 13 | B    | 18 | B    |
-| 4  | C    | 9  | C    | 14 | C    | 19 | B    |
-| 5  | B    | 10 | C    | 15 | C    | 20 | C    |
+| #  | Resp | Explicação |
+|----|------|------------|
+| 1  | B | objetivo do teste é encontrar defeitos |
+| 2  | C | defeito é a imperfeição no código |
+| 3  | B | erro humano gera defeito |
+| 4  | C | QA é preventivo |
+| 5  | B | teste dinâmico executa o software |
+| 6  | C | teste estático não executa código |
+| 7  | C | falha é comportamento incorreto em execução |
+| 8  | C | depuração corrige defeitos |
+| 9  | C | não é possível provar ausência de defeitos |
+| 10 | C | testes exaustivos são impossíveis |
+| 11 | B | defeitos tendem a se agrupar |
+| 12 | B | testes repetidos se degradam |
+| 13 | B | teste depende do contexto |
+| 14 | C | teste de sistema valida o sistema completo |
+| 15 | C | regressão verifica impacto de mudanças |
+| 16 | B | confirmação testa correção |
+| 17 | C | teste funcional avalia funcionalidades |
+| 18 | B | caixa-preta é baseada em requisitos |
+| 19 | B | risco = probabilidade + impacto |
+| 20 | C | automação traz repetibilidade |
 
 ---
 
