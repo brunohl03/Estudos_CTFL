@@ -1,16 +1,16 @@
-# 📝 SIMULADO CTFL 4.0 – K1 (20 questões)
+# SIMULADO CTFL 4.0 – K1 (20 questões)
 
 ---
 
-## 📌 Instruções
+## Instruções
 
-- ✔️ 1 alternativa correta  
-- ✔️ Nível: lembrar (K1)  
-- ✔️ Gabarito no final  
+- 1 alternativa correta  
+- Nível: lembrar (K1)  
+- Gabarito no final  
 
 ---
 
-## 🧠 QUESTÕES
+## QUESTÕES
 
 ### 1. O principal objetivo do teste é:
 A) Corrigir defeitos  
@@ -172,7 +172,7 @@ D) Elimina testes manuais
 
 ---
 
-## ✅ GABARITO (FORMATADO)
+## GABARITO
 
 | #  | Resp | #  | Resp | #  | Resp | #  | Resp |
 |----|------|----|------|----|------|----|------|
@@ -184,8 +184,8 @@ D) Elimina testes manuais
 
 ---
 
-## 🎯 COMO USAR ESSE SIMULADO
+## COMO USAR ESTE SIMULADO
 
-- ✔️ **18–20 acertos** → pronto para K1  
-- ✔️ **15–17 acertos** → bom, revisar pontos fracos  
-- ❗ **< 15 acertos** → precisa reforçar fundamentos  
+- 18–20 acertos → pronto para K1  
+- 15–17 acertos → bom, revisar pontos fracos  
+- < 15 acertos → precisa reforçar fundamentos  

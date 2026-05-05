@@ -1,17 +1,17 @@
-# 📝 SIMULADO CTFL 4.0 – K2 (NÍVEL PROVA REAL)
+# SIMULADO CTFL 4.0 – K2 (NÍVEL PROVA REAL)
 
 ---
 
-## 📌 Instruções
+## Instruções
 
-- ✔️ 1 alternativa correta  
-- ✔️ Cenários + interpretação  
-- ✔️ 20 questões  
-- ✔️ Gabarito + explicação no final  
+- 1 alternativa correta  
+- Cenários + interpretação  
+- 20 questões  
+- Gabarito + explicação no final  
 
 ---
 
-## 🧠 QUESTÕES
+## QUESTÕES
 
 ### 1.
 Durante um projeto, um testador encontra um defeito em um requisito antes do desenvolvimento começar.  
@@ -225,7 +225,7 @@ D) Apenas manuais
 
 ---
 
-## ✅ GABARITO (COM EXPLICAÇÃO)
+## GABARITO
 
 | #  | Resp | Explicação |
 |----|------|------------|
@@ -252,8 +252,8 @@ D) Apenas manuais
 
 ---
 
-## 🎯 COMO USAR ESSE SIMULADO
+## COMO USAR ESTE SIMULADO
 
-- ✔️ **18–20 acertos** → nível prova real dominado  
-- ✔️ **15–17 acertos** → bom, ajustar interpretação  
-- ❗ **< 15 acertos** → revisar conceitos + leitura de cenário  
+- 18–20 acertos → nível prova real dominado  
+- 15–17 acertos → bom, ajustar interpretação  
+- < 15 acertos → revisar conceitos + leitura de cenário  
