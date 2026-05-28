@@ -1,6 +1,7 @@
 # 🧪 SIMULADO ISTQB CTFL 4.0 — MÓDULO 3 (TESTE ESTÁTICO) — NÍVEL DIFÍCIL
 
 Baseado no syllabus oficial do ISTQB CTFL 4.0
+
 Foco:
 
 * Teste estático
@@ -40,8 +41,11 @@ Valor:
 Qual dos seguintes produtos de trabalho é MENOS apropriado para análise estática?
 
 a) Código-fonte
+
 b) Documento de requisitos
+
 c) Executável de terceiro sem acesso ao código
+
 d) Modelo UML
 
 Selecione UMA opção.
@@ -53,8 +57,11 @@ Selecione UMA opção.
 Qual é um dos principais objetivos do teste estático?
 
 a) Executar fluxos críticos do sistema
+
 b) Detectar falhas durante execução
+
 c) Melhorar qualidade dos produtos de trabalho
+
 d) Garantir cobertura de decisão total
 
 Selecione UMA opção.
@@ -68,8 +75,11 @@ Uma equipe identifica inconsistências e ambiguidades em requisitos antes da imp
 Qual técnica está sendo utilizada PRINCIPALMENTE?
 
 a) Teste dinâmico
+
 b) Teste exploratório
+
 c) Teste estático
+
 d) Teste de regressão
 
 Selecione UMA opção.
@@ -81,8 +91,11 @@ Selecione UMA opção.
 Qual afirmação descreve corretamente uma diferença entre teste estático e teste dinâmico?
 
 a) Ambos exigem execução do software
+
 b) Apenas testes dinâmicos podem detectar defeitos
+
 c) Testes estáticos detectam defeitos diretamente
+
 d) Testes dinâmicos não identificam falhas
 
 Selecione UMA opção.
@@ -94,8 +107,11 @@ Selecione UMA opção.
 Qual tipo de defeito é MAIS facilmente encontrado por análise estática?
 
 a) Tempo de resposta inadequado sob carga
+
 b) Código inacessível
+
 c) Vazamento de memória em produção
+
 d) Falha causada por concorrência em runtime
 
 Selecione UMA opção.
@@ -107,8 +123,11 @@ Selecione UMA opção.
 Qual das seguintes opções representa um benefício importante das revisões?
 
 a) Eliminar necessidade de testes dinâmicos
+
 b) Detectar defeitos cedo no SDLC
+
 c) Garantir ausência total de defeitos
+
 d) Automatizar correção de requisitos
 
 Selecione UMA opção.
@@ -122,8 +141,11 @@ Durante uma revisão, um participante registra defeitos encontrados e decisões 
 Qual papel está sendo executado?
 
 a) Autor
+
 b) Moderador
+
 c) Relator
+
 d) Gerente
 
 Selecione UMA opção.
@@ -135,8 +157,11 @@ Selecione UMA opção.
 Qual responsabilidade pertence ao moderador em uma revisão?
 
 a) Corrigir o produto revisado
+
 b) Garantir andamento eficaz da revisão
+
 c) Aprovar requisitos de negócio
+
 d) Implementar ações corretivas
 
 Selecione UMA opção.
@@ -148,8 +173,11 @@ Selecione UMA opção.
 Qual atividade ocorre durante o planejamento da revisão?
 
 a) Correção dos defeitos encontrados
+
 b) Definição do escopo e critérios de saída
+
 c) Registro das anomalias
+
 d) Execução dos testes dinâmicos
 
 Selecione UMA opção.
@@ -161,8 +189,11 @@ Selecione UMA opção.
 Qual das alternativas descreve MELHOR uma revisão informal?
 
 a) Processo rigorosamente documentado
+
 b) Revisão conduzida obrigatoriamente por moderador
+
 c) Revisão sem processo formal definido
+
 d) Revisão obrigatória com coleta de métricas
 
 Selecione UMA opção.
@@ -174,8 +205,11 @@ Selecione UMA opção.
 Em qual tipo de revisão o autor normalmente conduz a sessão?
 
 a) Inspeção
+
 b) Revisão técnica
+
 c) Walkthrough
+
 d) Revisão informal
 
 Selecione UMA opção.
@@ -187,8 +221,11 @@ Selecione UMA opção.
 Qual característica diferencia uma inspeção dos outros tipos de revisão?
 
 a) Ausência de documentação
+
 b) Processo altamente formal
+
 c) Participação opcional dos revisores
+
 d) Foco exclusivo em treinamento
 
 Selecione UMA opção.
@@ -200,8 +237,11 @@ Selecione UMA opção.
 Qual é um objetivo típico de uma revisão técnica?
 
 a) Executar testes automatizados
+
 b) Medir tempo de resposta do sistema
+
 c) Obter consenso sobre problemas técnicos
+
 d) Simular comportamento do usuário final
 
 Selecione UMA opção.
@@ -215,8 +255,11 @@ Uma equipe realiza revisão individual antes da reunião principal.
 Em qual tipo de revisão isso é MAIS comum e esperado?
 
 a) Revisão informal
+
 b) Walkthrough
+
 c) Inspeção
+
 d) Brainstorming
 
 Selecione UMA opção.
@@ -228,8 +271,11 @@ Selecione UMA opção.
 Qual fator contribui significativamente para revisões bem-sucedidas?
 
 a) Revisões muito longas para maximizar cobertura
+
 b) Avaliar desempenho individual dos participantes
+
 c) Objetivos claros e critérios de saída mensuráveis
+
 d) Evitar feedback aos autores
 
 Selecione UMA opção.
@@ -241,8 +287,11 @@ Selecione UMA opção.
 Qual afirmação sobre feedback antecipado dos stakeholders é VERDADEIRA?
 
 a) Aumenta retrabalho intencionalmente
+
 b) Reduz entendimento compartilhado
+
 c) Ajuda a evitar mal-entendidos sobre requisitos
+
 d) Elimina necessidade de refinamento
 
 Selecione UMA opção.
@@ -254,8 +303,11 @@ Selecione UMA opção.
 Qual dos seguintes defeitos é MAIS provável de ser identificado por revisão de requisitos?
 
 a) Erro de compilação
+
 b) Ambiguidade textual
+
 c) Falha de performance sob carga
+
 d) Deadlock em execução paralela
 
 Selecione UMA opção.
@@ -267,8 +319,11 @@ Selecione UMA opção.
 Qual afirmação sobre análise estática é VERDADEIRA?
 
 a) Só pode ser usada após execução do sistema
+
 b) Exige sempre casos de teste
+
 c) Pode ser integrada em pipelines CI
+
 d) Substitui completamente revisões humanas
 
 Selecione UMA opção.
@@ -280,8 +335,11 @@ Selecione UMA opção.
 Qual dos seguintes é um exemplo de anomalia típica encontrada em revisões?
 
 a) Interface lenta sob 10 mil usuários
+
 b) Estouro de memória durante execução
+
 c) Requisito contraditório
+
 d) Timeout causado por rede externa
 
 Selecione UMA opção.
@@ -300,8 +358,11 @@ Uma organização deseja:
 Qual tipo de revisão é MAIS adequado?
 
 a) Walkthrough
+
 b) Revisão informal
+
 c) Revisão técnica
+
 d) Inspeção
 
 Selecione UMA opção.
